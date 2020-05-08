@@ -1,0 +1,14 @@
+{
+  "name": "csv2sql-import",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Ivan Foong",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^2.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.5",
+    "typescript": "^3.8.3"
+  }
+}
